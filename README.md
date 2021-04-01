@@ -1,6 +1,11 @@
 # bmi_calculator
 
-A new Flutter project.
+A new Flutter project to learn about some widgets: 
+AppBar,
+TextField, 
+ScrollView, 
+Form and Validation,
+Controllers
 
 ## Getting Started
 
